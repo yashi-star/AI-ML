@@ -1,8 +1,8 @@
-"# AI-ML" 
-#  Human Psychological Counselor Webapp
+
+#  Human Psychological Counselling Platform
 
 ## Overview
-PsycoCouncil is an advanced psychological counseling platform integrating cutting-edge technologies such as Computer Vision and Signal Processing for precise emotion recognition and heart rate analysis. Through the utilization of these sophisticated methods, PsycoCouncil aims to deliver comprehensive and accurate insights to enhance the counseling experience for individuals seeking psychological support.
+"PsycoCouncil" is an innovative psychological counseling platform designed to enhance the counseling experience by integrating advanced technologies. It leverages Computer Vision to precisely recognize emotions, analyzing facial expressions and micro-expressions for accurate emotional assessment. Additionally, Signal Processing is employed to monitor heart rate, offering real-time physiological insights. These technologies work together to provide a detailed and comprehensive analysis, enabling counselors to better understand and support their clients. The platform generates personalized reports for patients, summarizing the findings and recommendations based on the collected data.
 
 ## Cite
   ```
