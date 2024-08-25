@@ -57,10 +57,6 @@ transcriber = aai.Transcriber()
 
 heart_calculator = HeartMetricsCalculator()
 
-# Connect TURN Server
-client = Client("AC82f974469fca0d7dc173385e5af84110","bea69049a3af134ef9bdc6bff7dfa443")
-token = client.tokens.create()
-
 # Initialize threading and session states
 lock = threading.Lock()
 img_container = {'image': None}
