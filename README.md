@@ -14,7 +14,7 @@ PsycoCouncil is an advanced psychological counseling platform integrating cuttin
     AU  - Subhajit. Dutta
     AU  - Vedant. Shukla
     AU  - Yashi. Pant
-    AU  - V. Tripathi
+    AU  - Vikas. Tripathi
     PY  - 2024
     DO  - 10.23919/INDIACom61295.2024.10498255
     Y1  - 28 Feb.-1 March 2024 
@@ -48,7 +48,7 @@ PsycoCouncil is an advanced psychological counseling platform integrating cuttin
 
 1. **Clone the Repository**:  
    ```
-   https://github.com/yash
+   https://github.com/yashi-star/CounsellingPlatform.git
    ```
 
 2. **Install Virtual Environment**:  
