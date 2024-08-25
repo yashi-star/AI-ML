@@ -21,7 +21,7 @@
   ```
 
 ## Project Link
-  [Webapp](https://council.streamlit.app/) 
+  [Webapp](https://counsellingplatform-byyashi.streamlit.app/) 
    *Reboot if faced with memory issues*
 
 ## Research Paper
